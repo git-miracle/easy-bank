@@ -1,10 +1,10 @@
-# Frontend Mentor - Easybank landing page
+# Farhad Nazmi- Easybank landing page
 
 ![Design preview for the Easybank landing page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge.
+Thanks for checking my first  front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
