@@ -1,0 +1,21 @@
+//---------------- Colors
+// primary
+$DarkBlue: hsl(233, 26%, 24%);
+$limeGreen: hsl(136, 65%, 51%);
+$BrightCyan: hsl(192, 70%, 51%);
+//--------------- Neutral
+$GrayishBlue: hsl(233, 8%, 62%);
+$LightGrayishBlue: hsl(220, 16%, 96%);
+$VeryLightGray: hsl(0, 0%, 98%);
+$White: hsl(0, 0%, 100%);
+
+// font size
+
+$font-sm: 0.875rem;
+$font-md: 1.125rem;
+$font-lg: 1.25rem;
+$font-xlg: 3.25rem;
+// //---- in case if needed
+// $font-weight("small": 300, "regular": 400, "bold": 700);  as variable
+
+// in sass >> font-weight: map-get($font-weight, small); //
